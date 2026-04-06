@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="[https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFobzlxbHhvdGwxeHM1ZWtpdGtmb29leW1wdzZwd2ZmZmZsbzMxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PelgzC2XLDchKIdULY/giphy.gif)" href="https://github.com/mehdizono" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
 <details>
